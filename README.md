@@ -1,8 +1,8 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hi , I'm Abdessalam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Abdessalam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&lines=Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Full+Stack+Web+Developer"></a>
 </p>
 
 
@@ -49,7 +49,7 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
@@ -67,7 +67,7 @@
 </p>
 
 ### 👉 Frontend Development
-<p align="center"> 
+<p> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -82,13 +82,13 @@
 </p>
 
 ### 👉 Backend Development
-<p align="center"> 
+<p> 
   &emsp;
 	
 </p>
  ### 👉 Software & Tools
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -105,7 +105,7 @@
 
  ### 👉 IDEs
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
@@ -122,7 +122,7 @@
 
  ### 👉 Competitive Programming & Problem Solving
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
@@ -133,7 +133,7 @@
 
  ### 👉 Operating Systems
  
-<p align="center">
+<p>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;

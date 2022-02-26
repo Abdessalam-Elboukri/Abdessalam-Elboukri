@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Abdessalam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=23&lines=Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&lines=Full+Stack+Web+Developer"></a>
 </p>
 
 
@@ -142,6 +142,14 @@
 
 <br/>
 
+## 👉 Databases and Cloud hosting
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="InfinityFree" src="https://img.shields.io/badge/logo=xampp&logoColor=white"></a>
+</p>
+
 ## 📊 Github Stats
 
 
@@ -152,7 +160,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdessalam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdessalam-Elboukri&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdessalam-Elboukri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdessalam-Elboukri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdessalam" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>

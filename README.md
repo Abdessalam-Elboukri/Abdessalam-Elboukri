@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" /> 
+	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" width="65PX" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
@@ -95,6 +95,7 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
+<hr>
 
  ### 👉 IDEs
  
@@ -107,7 +108,7 @@
   <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white" ></a>
 </p>
 
-<br>
+<hr>
 
  ### 👉 Competitive Programming & Problem Solving
  
@@ -117,7 +118,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" width= /></a>
 </p>
 
-<br>
+<hr>
 
  ### 👉 Operating Systems
  
@@ -128,7 +129,7 @@
 
 <br/>
 
-<br>
+<hr>
 
 ## 👉 Databases and Cloud hosting
 
@@ -138,7 +139,7 @@
     <a href="#"><img alt="InfinityFree" src="https://img.shields.io/badge/logo=xampp&logoColor=white" width="85px"></a>
 </p>
 
-<br>
+<hr>
 
 ## 👉 Browsers
 <p>
@@ -166,7 +167,7 @@
   </p>
 
 ----
-
+<br/>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Abdessalam-Elboukri"><img alt="Abdessalam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdessalam-Elboukri&custom_title=abdessalam's%20Contribution%20Graph&theme=react-dark" /></a>

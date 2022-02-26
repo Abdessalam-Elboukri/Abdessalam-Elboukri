@@ -108,10 +108,6 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -172,7 +168,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Abdessalam-Elboukri"><img alt="Abdessalam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdessalam-Elboukri&custom_title=abdessalam's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -180,9 +176,6 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdessalam-Elboukri&layout=compact&theme=algolia" alt="Abdessalam" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 10/02/2022

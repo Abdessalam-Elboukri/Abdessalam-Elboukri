@@ -9,7 +9,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" width="65PX" /> 
+	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" width="110px" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
@@ -127,8 +127,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="87px"></a>	  
 </p>
 
-<br/>
-
 <hr>
 
 ## 👉 Databases and Cloud hosting
@@ -147,7 +145,7 @@
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
-
+<hr>
 <br>
 <br>
 
@@ -173,6 +171,7 @@
    <a href="https://github.com/Abdessalam-Elboukri"><img alt="Abdessalam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdessalam-Elboukri&custom_title=abdessalam's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+<hr>
 
 <br/>
 

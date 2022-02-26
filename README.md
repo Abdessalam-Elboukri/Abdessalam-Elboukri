@@ -9,24 +9,22 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Abdessalam-Elboukri&label=Profile%20views&color=0e75b6&style=plastic" alt="abdessalam's github" /> 
 	<a href = "https://commits.top/morocco.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Abdessalam" target="_blank"/> 
 	</a>
 </p>
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :school: I am a `Junior` Web Developer at YouCode .
+- :technologist: I love using Software as a solution for every `Problem` .
+- :computer: I am a competitive programmer .
+- :student: I’m currently learning: `Front End` and `Back End`.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdessalam-Elboukri&theme=algolia" alt="abdessalam" /></p>
 
 <br>
 <br>

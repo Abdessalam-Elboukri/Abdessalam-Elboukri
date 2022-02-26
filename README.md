@@ -102,7 +102,6 @@
 <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" ></a>
   <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"  /></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
   <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
   <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white" ></a>

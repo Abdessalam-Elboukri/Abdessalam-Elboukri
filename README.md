@@ -38,7 +38,7 @@
 <p>
 	<a href="mailto:abdessalamelboukri1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" width="85px" alt="Gmail"/></a>
 	<a href="https://github.com/Abdessalam-Elboukri"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="85px" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abdessalam-el-boukri-6b55a8213/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="85px" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/abdessalam-el-boukri-6b55a8213/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="90px" alt="LinkedIn"/></a>
 </p>
 
 
@@ -52,7 +52,7 @@
 <p> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white" width="85px">
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white" width="50px">
   </a> 
   &emsp; 
   &emsp;

@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<br>
+<hr>
 
 ### 👉 Frontend Development
 <p> 
@@ -69,22 +69,22 @@
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" width="85px">
   </a>   
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" width="85px">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" width="60px">
   </a> 
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" width="85px"></a> 
 
 </p>
 
-<br>
+<hr>
 
 ### 👉 Backend Development
 <p> 
 	
 </p>
 
+<hr>
+
  ### 👉 Software & Tools
- 
- <br>
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" ></a>
@@ -95,7 +95,6 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
-<br>
 
  ### 👉 IDEs
  

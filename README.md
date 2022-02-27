@@ -16,11 +16,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` Web Developer at YouCode .
+- :school: I am a Junior Web Developer at `YouCode` .
 - :technologist: I love using Software as a solution for every `Problem` .
 - :computer: I am a competitive programmer .
 - :student: I’m currently learning: `Front End` and `Back End`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :thinking: I’m open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -66,7 +66,7 @@
 ### 👉 Frontend Development
 <p> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" width="85px">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" width="80px">
   </a>   
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" width="60px">
@@ -128,17 +128,16 @@
 
 <hr>
 
-## 👉 Databases and Cloud hosting
-
+### 👉 Databases and Cloud hosting
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" width="85px"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white" width="85px"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white" width="77px"></a>
     <a href="#"><img alt="InfinityFree" src="https://img.shields.io/badge/logo=xampp&logoColor=white" width="85px"></a>
 </p>
 
 <hr>
 
-## 👉 Browsers
+### 👉 Browsers
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
@@ -148,9 +147,9 @@
 <br>
 <br>
 
+
+
 ## 📊 Github Stats
-
-
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>

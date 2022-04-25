@@ -43,7 +43,7 @@
 <br>
 
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 
 
 ### 👉 Programming languages
@@ -94,7 +94,7 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
-<hr>
+<hr> -->
 
 <!--  ### 👉 IDEs
  
